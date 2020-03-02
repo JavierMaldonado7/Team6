@@ -9,7 +9,7 @@ object Main {
       override def run(): Unit = {
         val f : UI = new UI();
 
-      }
+       }
     })
 
   }
